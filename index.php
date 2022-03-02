@@ -16,9 +16,6 @@
         $navegador
     );
     $c->insertarDatos($datos);
-
-    // $c=new metodos();
-    // $sql="SELECT id, ips"
 ?>
 
 <header>
